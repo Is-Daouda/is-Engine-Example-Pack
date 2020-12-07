@@ -54,7 +54,7 @@ namespace GameConfig
     static const sf::Keyboard::Key KEY_VALIDATION_KEYBOARD = sf::Keyboard::Return;
 
     /// Represent the key which cancel the options with the Keyboard
-    static const sf::Keyboard::Key KEY_CANCEL = sf::Keyboard::Escape;;
+    static const sf::Keyboard::Key KEY_CANCEL = sf::Keyboard::Escape;
 
     /// Represents the button A key
     static const sf::Keyboard::Key KEY_A      = sf::Keyboard::W;
