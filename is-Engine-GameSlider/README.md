@@ -14,7 +14,7 @@
 
 ### Description:
 - This example shows you how to use the **GameSlider** to control a character. It also shows you how to animate an object with the framework's **animation engine**.
-- GameSlider: is a feature that allows you to slide your finger UP, DOWN, LEFT, RIGHT to perform an action.
+- **GameSlider**: is a feature that allows you to slide your finger UP, DOWN, LEFT, RIGHT to perform an action.
 
 ![image 1](./images/image_1.png)
 ![image 2](./images/image_2.png)
