@@ -7,7 +7,7 @@
 - [Android Studio](https://github.com/Is-Daouda/is-Engine#-android-studio)
 - [Code::Blocks](https://github.com/Is-Daouda/is-Engine#-codeblocks)
 - [CMake](https://github.com/Is-Daouda/is-Engine#-cmake)
-- [Qt](https://github.com/Is-Daouda/is-Engine#-qt-creator)
+- [Qt](https://github.com/Is-Daouda/is-Engine#-qt)
 - [Visual Studio Code](https://github.com/Is-Daouda/is-Engine#-visual-studio-code)
 
 ### Description:
